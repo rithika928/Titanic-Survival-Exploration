@@ -1,2 +1,2 @@
-# Titanic-Survival-Exploration
+# Titanic Survival Exploration
 Exploratory Data Analysis (EDA) - Titanic Survival Subset
